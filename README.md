@@ -1,6 +1,6 @@
 # Nexter
 
-Just a static site to practice SASS, CSS Grid and Flexbox
+Just a static site to practice SASS, CSS Grid, Flexbox and npm.
 
 **The UI :**
 
@@ -31,4 +31,5 @@ Just a static site to practice SASS, CSS Grid and Flexbox
 * Got a good grip on Flexbox and CSS Grids
 * Learnt how to use the Dev Tools in Chrome and Firefox efficiently
 * Grasped the concept of package managers like npm and how to work with them
+* Familiarised myself with icon fonts and svgs in frontend development
 
